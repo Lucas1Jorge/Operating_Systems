@@ -1,3 +1,7 @@
+// Parent writes a string
+// Child reads the string and reverses its case (Upper -> Lower; Lower -> Upper)
+// Parent reads and prints the reversed case string
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <unistd.h>
